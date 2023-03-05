@@ -1,0 +1,12 @@
+module testbench;
+
+ // import "DPI-C" function int add_two_numbers(int, int);
+
+  initial begin
+    int result = add_two_numbers(3, 4);
+    $display("The result is %0d", result);
+  end
+
+endmodule
+
+"#basic example of stash with tb" 
