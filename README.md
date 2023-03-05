@@ -3,4 +3,4 @@
 
 #K_INFO
 
-open this file in browser Understanding Git through images - DEV Community.html
+open this file in browser "Understanding Git through images - DEV Community.html"
